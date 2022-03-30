@@ -1,2 +1,2 @@
-# qr-algorithm
-Eigenvalues and eigenvectors using QR algorithm
+# Matrix determinant
+Algorithm that uses the properties of a determinant to compute it
